@@ -21,3 +21,4 @@ Through the course of the hackathon, we developed and ideated a board game from 
 
 ## Check it out!
 
+https://manankabra99.github.io/SavePecunia/
