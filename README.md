@@ -20,4 +20,4 @@ Through the course of the hackathon, we developed and ideated a board game from 
 2) More, larger and longer game modes with higher stakes in each mode; tougher and more complicated situations where one has to do the absolute right thing to win!
 
 ## Check it out!
-https://shreya-markhedkar.github.io/SavePecunia/
+
